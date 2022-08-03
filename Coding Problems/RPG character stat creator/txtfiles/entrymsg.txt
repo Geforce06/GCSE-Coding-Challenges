@@ -1,0 +1,4 @@
+	-RPG character creator-
+-------------------------------------
+Enter 1 to make a new character
+Enter 2 to review your character
